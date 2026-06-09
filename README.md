@@ -35,10 +35,9 @@ name       : Janith Chamitha
 location   : Sri Lanka 🇱🇰
 education  : IT Undergraduate @ SLIIT
 focus      : Full Stack Web & Mobile Development
-building   : Spring Boot + React | MERN Stack | Flutter Apps
+building   : Spring Boot + React | MERN Stack | kotlin
 learning   : AWS Cloud · Docker · CI/CD Pipelines
 philosophy : "Code is poetry written in logic"
-coffee     : ∞
 ```
 
 ---
@@ -92,8 +91,6 @@ coffee     : ∞
 | ♻️ | **Waste Management System** | Location-based bin tracking and route optimization for waste collection agents | MERN Stack | [Repo](#) |
 | 🏠 | **Hostel Management System** | Room allocations, registrations, and hostel request handling for university admin | Spring Boot · MySQL | [Repo](#) |
 | 💰 | **Online Bidding System** | Real-time auction platform with live bids, listing management & activity monitoring | React · Node.js · MongoDB | [Repo](#) |
-| 🛒 | **E-Commerce Platform** | Full-featured shopping platform with cart, checkout, and payment integration | MERN · Stripe · JWT | [Repo](#) |
-| 📱 | **Flutter Task Manager** | Cross-platform task app with Firebase sync and push notifications | Flutter · Dart · Firebase | [Repo](#) |
 
 > Replace `[Repo](#)` links with real repository URLs.
 
@@ -136,14 +133,9 @@ coffee     : ∞
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/YOUR_CHANNEL)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://yourblog.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/janith-chamith-308b42296)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janithcamitha@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-owjkxeiyh-janith-projects2.vercel.app)
 
 </div>
 
