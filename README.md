@@ -87,10 +87,10 @@ philosophy : "Code is poetry written in logic"
 
 | # | Project | Description | Stack | Links |
 |---|---------|-------------|-------|-------|
-| 🎓 | **Smart University System** | Full-stack platform for student management, course registration, attendance & academic admin | Spring Boot · React · MySQL | [Repo](#) |
-| ♻️ | **Waste Management System** | Location-based bin tracking and route optimization for waste collection agents | MERN Stack | [Repo](#) |
-| 🏠 | **Hostel Management System** | Room allocations, registrations, and hostel request handling for university admin | Spring Boot · MySQL | [Repo](#) |
-| 💰 | **Online Bidding System** | Real-time auction platform with live bids, listing management & activity monitoring | React · Node.js · MongoDB | [Repo](#) |
+| 🎓 | **Smart University System** | Full-stack platform for student management, course registration, attendance & academic admin | Spring Boot · React · MySQL | [https://github.com/JanithSE/smart_campus_operations_Hub.git](#) |
+| ♻️ | **Waste Management System** | Location-based bin tracking and route optimization for waste collection agents | MERN Stack | [https://github.com/JanithSE/ITP.git](#) |
+| 🏠 | **Hostel Management System** | Room allocations, registrations, and hostel request handling for university admin | Spring Boot · MySQL | [https://github.com/JanithSE/ITPM-Project-HostelManagement.git](#) |
+| 💰 | **Online Bidding System** | Real-time auction platform with live bids, listing management & activity monitoring | React · Node.js · MongoDB | [https://github.com/JanithSE/Online_Bidding_System.git](#) |
 
 > Replace `[Repo](#)` links with real repository URLs.
 
