@@ -12,15 +12,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=378ADD&label=Profile+Views" />
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/janith-chamith-308b42296">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:janithcamitha@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://yourportfolio.com">
+<a href="https://portfolio-owjkxeiyh-janith-projects2.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 
@@ -92,7 +92,7 @@ philosophy : "Code is poetry written in logic"
 | 🏠 | **Hostel Management System** | Room allocations, registrations, and hostel request handling for university admin | Spring Boot · MySQL | [https://github.com/JanithSE/ITPM-Project-HostelManagement.git](#) |
 | 💰 | **Online Bidding System** | Real-time auction platform with live bids, listing management & activity monitoring | React · Node.js · MongoDB | [https://github.com/JanithSE/Online_Bidding_System.git](#) |
 
-> Replace `[Repo](#)` links with real repository URLs.
+
 
 ---
 
